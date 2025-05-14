@@ -10,6 +10,8 @@ class ImageRoller extends StatefulWidget {
   State<ImageRoller> createState() => _ImageRollerState();
 }
 
+// Halo
+
 class _ImageRollerState extends State<ImageRoller> {
   var currentImage = 2;
 
